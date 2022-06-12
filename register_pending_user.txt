@@ -1,0 +1,1 @@
+INSERT INTO classes (classname, lecname, lecid) VALUES ('Calculus','Lecturer One','lec001')
